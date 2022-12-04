@@ -1,3 +1,4 @@
+#Install via: !pip install -r requirements/requirements.txt
 -r requirements.txt
 
 # testing requirements
